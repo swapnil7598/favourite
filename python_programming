@@ -1,0 +1,8 @@
+S1=int(input("Enter the marks of first subject:"))
+S2=int(input("Enter the marks of second subject:"))
+S3-int(input("Enter the marks of third subject:"))
+S4=int(input("Enter the marks of fourth subject:"))
+total=S1+S2+S3+S4
+per=(S1+S2+S3+S4)/400*100
+print("Total marks of student is",total)
+print("And the Percentage is",per)
